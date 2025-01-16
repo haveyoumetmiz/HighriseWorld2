@@ -4,7 +4,7 @@ Welcome to **Highrise World2**, a 2D virtual world created using **Unity** and *
 
 ---
 
-## 🏙️ **About Highrise World1**  
+## 🏙️ **About Highrise World2**  
 
 Highrise World2 is a creatively designed and interactive 2D environment that brings together innovative gameplay and visually appealing aesthetics. The world allows players to explore, interact, and engage in a seamless virtual experience.  
 
